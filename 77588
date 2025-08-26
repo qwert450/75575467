@@ -1,1 +1,280 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _umstnooWszpc = a; end)); return(function(r,...)local b;local l;local f;local k;local t;local d;local e=24915;local h=0;local n={};while h<678 do h=h+1;while h<0x236 and e%0x3fba<0x1fdd do h=h+1 e=(e-297)%46206 local o=h+e if(e%0x2178)>=0x10bc then e=(e+0x9b)%0x55bc while h<0x28c and e%0x3526<0x1a93 do h=h+1 e=(e*820)%19670 local d=h+e if(e%0xf54)>=0x7aa then e=(e*0x118)%0x1d57 local e=57288 if not n[e]then n[e]=0x1 b={};end elseif e%2~=0 then e=(e*0x380)%0x7045 local e=73396 if not n[e]then n[e]=0x1 end else e=(e+0x35b)%0x643f h=h+1 local e=16594 if not n[e]then n[e]=0x1 l=string;end end end elseif e%2~=0 then e=(e*0x15a)%0x317b while h<0x275 and e%0x1270<0x938 do h=h+1 e=(e+244)%46717 local o=h+e if(e%0x16ac)<=0xb56 then e=(e*0x23a)%0x6acd local e=70141 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e-0x2b4)%0x74f2 local e=46378 if not n[e]then n[e]=0x1 f="\4\8\116\111\110\117\109\98\101\114\105\100\116\70\68\68\122\106\0\6\115\116\114\105\110\103\4\99\104\97\114\105\107\82\119\112\122\113\102\0\6\115\116\114\105\110\103\3\115\117\98\97\110\103\73\114\119\76\110\0\6\115\116\114\105\110\103\4\98\121\116\101\114\117\95\110\108\75\116\106\0\5\116\97\98\108\101\6\99\111\110\99\97\116\119\74\86\82\89\104\84\71\0\5\116\97\98\108\101\6\105\110\115\101\114\116\116\112\80\116\89\67\89\112\5";end else e=(e-0x178)%0x7184 h=h+1 local e=98856 if not n[e]then n[e]=0x1 t=function(t)local e=0x01 local function n(h)e=e+h return t:sub(e-h,e-0x01)end while true do local h=n(0x01)if(h=="\5")then break end local e=l.byte(n(0x01))local e=n(e)if h=="\2"then e=b.idtFDDzj(e)elseif h=="\3"then e=e~="\0"elseif h=="\6"then d[e]=function(h,e)return r(8,nil,r,e,h)end elseif h=="\4"then e=d[e]elseif h=="\0"then e=d[e][n(l.byte(n(0x01)))];end local h=n(0x08)b[h]=e end end end end end else e=(e-0x24c)%0x374a h=h+1 while h<0x382 and e%0x1ae2<0xd71 do h=h+1 e=(e+518)%17833 local t=h+e if(e%0x39ce)>0x1ce7 then e=(e+0x220)%0x192 local e=96568 if not n[e]then n[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e+0x3ce)%0x8367 local e=77158 if not n[e]then n[e]=0x1 k=tonumber;end else e=(e*0xfc)%0x6c73 h=h+1 local e=28049 if not n[e]then n[e]=0x1 d=(not d)and _ENV or d;end end end end end e=(e*429)%8720 end t(f);local e={};for h=0x0,0xff do local n=b.ikRwpzqf(h);e[h]=n;e[n]=h;end local function o(h)return e[h];end local a=(function(r,t)local f,n=0x01,0x10 local h={{},{},{}}local d=-0x01 local e=0x01 local l=r while true do h[0x03][b.angIrwLn(t,e,(function()e=f+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""n=0x000 break end end local d=#t while e<d+0x01 do h[0x02][n]=b.angIrwLn(t,e,(function()e=f+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 b.tpPtYCYp(h[0x01],(o((((h[0x03][h[0x02][0x00]]or 0x00)*0x10)+(h[0x03][h[0x02][0x01]]or 0x00)+l)%0x100)));l=r+l;end end return b.wJVRYhTG(h[0x01])end);t(a(39,"_^K%WP.7(A)9,Rp4R99.9RAP7WWA.K%R4K,^APAA..%49AA^AA(.AK%P^(^%p79A(9m,pWpRpR,4)(A(7K^.^0pRP4%AW%^44Po.RWA<(.%4%9K),4.W%RW)KPK7dPp^AK.pP.KPQ)Aj.97%W4K%4R+9pv9(A(W9%^K9p9.pWAW4K7b^R9pP)^)WWpPQ^p4Ap(W,K.%^bPpW4A,^A4(9P4KRp.,7P^K9%W^up(p99(AP.^P7K4 (,KP.%z%)^Lp,4p,WA9(P.^%P&)pAP9%7%,^74I,.).9mAA.4W)4Ap4,.A9^KpR4%,p)97RAKWC%p4.u^,p(A7,42,)R.9^(77K.9WR^Ap.999%.R4PR^R(97(7.%%RKAf%piR7)7.,WWW(),(.(p..WPP%?ADKp),P.(77K(9^(9A.7^W7W%^pp4R(AWA>P,K49.AKA77^WAK%4,4),PA,)%(=KK4,49.RW(WpK744Rp,W9KAK7RPpK,RA,PW9KP%/tApDMJ,)),7pWpK,p%,,PdK)%W-Ap74W,4(.7RW(%4NPp(PPK4%9^Pp(4.9p(,7,WPW^^P,pP)%.%R^,4%,()I),7W.Z%7lp,p94)W^^p,4K,p),(K7K.4WANP4%RAA4P4p4,AR.),(AA,.K^p^(pR9AAT.;4W,pRP9W(9AW7.W,%%49p^9K.94ARWp^99(4.W.%%R^.^Kp)947WPwR79^99AI.R79WRKpY994A,(APWR,9P,PAPAW.K%9^%p4p.9A7Ac(pKpR,.A,9K(2P(%4^pp,99A.+Rp74^,7)^)47AW9WR6.,R)p)R^Kp,4W,9))A^.(W9K4KB,RRR(P^74^4)R&)9),)%P9W7K)pP9W),^,4.44R)97AA()77K7KK4(RA99K^4,1KpK9)(,(W(.PA^P^^,9A^..44R)pV9AAW7KP4WK%R4^,p)A.,.RRR97,KA,7(.W.P%,4.4P,97(.,pK9,,.)K7)((W9W;^pRK9WAA.pp7,K,R)7(^PWP)%9^)4RR^9<(A%A,PAR)(,(.AW4^pv)4P9P((^(4X4,^KR0A9A(PRW(K,R..9W%WR.KKKp(ptR^(.7XWR9pA.)%9)777KW7pRRW9PA4^^pA47pP,7)W7KW(%)^^47.W%pW.KK4,pK,R94A)W7W^IAR..AWKW9KK%%v%p.A))KP,W(^;AP.p7(Pl.)^^!)4.9R)7PAKA,^A))%79.pW(KR4pR49^9^7PpR,.RC)7,A(=P^W)4WR,9)(P^A4W49RK)4(9A).A%K*Ap()R(((,47RKR(9w(9.PPWPRF^4),^)4AAP9RP)p9)A17,(7WKK7e.,(Ap7)gW"));t(a(182,"1l75+d3twaK/{-(s+KaKdla{(+7dt+/ta(+wK5(d57w3a{kl+laK{sj(d(3>K/3^a-(d5Kw+/llt+3ww{{5ww3{{/5Bl/3Q7+5a7(77(dlK-(l73K5-(lsSwdwrsdKK7(557tdd-!s+-KK(557w/{5la3qa--/l+t/3+/73dK5nS5(7d-3lw35{6S7d7td{t7-t5K7sadd5Qw7553s{wT/+-K3--5Ktl/{l8d5Ka((l(3({3l75sKww{-at7{/l53(/5JPJ/wK-s7s+KKs(+dd3(t3{kt-/l95dwwl{Klww+aw(dd-w-w {a+/-#sK33ass(57tKK-/?s(/+sa+ta7-Kl/3KK-(5+5t&-(HatwKd(5(i7s(wls3K/(Vl({Kd(w5+3s//Y-+Naw-57lwl-wsVd3+Mw{+dww-+ sd/K--a++3+-lssd+/{s((^7/(M7{3-/{L{+/t{->l5t(/5lt7K5ww+5Kts{-lw3cKls^55dwK-(-+dKts/75tq3{/d3K/3st+3a3-R7d3(/dsadtt+{l{X}{{5ssd#a5-/533(K3l3+/aK{dosttd{KKd-a/sw53l-{wlw3dKss{+ta+-t7w3d/d-3737a"));MfVoPOuAgYzUnRY=function(e)e((-b.suQGBmaa+(function()local n,h=b.DwAKmhaZ,b.XaaxyDei;(function(e,h)e(e(e,e),h(e,e))end)(function(d,e)if n>b.laDaAdzF then return d end n=n+b.XaaxyDei h=(h*b.afiADSIU)%b.gcbiCPqX if(h%b.cFpAj_aw)>=b.rafytiIQ then return e else return d(e(d,d)and d(e,e),e(e,e))end return e(d(e,e),e(e,e))end,function(e,d)if n>b._SWJgffG then return e end n=n+b.XaaxyDei h=(h+b.mZXilgci)%b.hxuwMjhd if(h%b.lAfEwkMg)<=b.GgpcWSrS then return e(e(e,d),e(d,e))else return d end return d end)return h;end)()))end;YRnUzYgAuOPoVfM={b.SiLpQvYM,b.iPZSt_yB};local e=(-b.GHLjaMLw+(function()local l,n=b.DwAKmhaZ,b.XaaxyDei;(function(h,n,e,d)h(d(e,e,h,e),n(h and d,h,e and d,h)and e(d,n and e,h,h),e(n,n and h,e,n),e(n,h,h,e))end)(function(t,d,e,h)if l>b.lIixzDzR then return d end l=l+b.XaaxyDei n=(n*b.WYQaDgZT)%b.WIGuyBCi if(n%b.CX_qynBU)>b.zktmdiGW then return e(h(e,e,d,h),h(e,e,d,e),h(t,e,h,e),t(e,t and t,d,h))else return d end return d end,function(t,d,e,h)if l>b.ikIgYwdn then return e end l=l+b.XaaxyDei n=(n-b.fUJaQtoO)%b.eTgecJbn if(n%b.MqrUjwdK)>=b.r_Bc_RPG then n=(n*b.enkyhumM)%b.VWWzyuQT return d(e(e,t,h,d),d(d,e,e,h),h(e and t,h,t,e and e),e(e,d,e,h))else return e end return t end,function(t,h,d,e)if l>b.ibjnIMaS then return d end l=l+b.XaaxyDei n=(n*b.VKKJMkeL)%b.odcqwlbd if(n%b.gXQzZHPv)>=b.DBLWoCzI then return h else return e(d(h,d,d and h,t)and t(e,e and h,e,t),d(d,t,h and d,d),h(h,d and h,h,e),e(d,e,e,t))end return h(t(h,e,d,t)and h(e,d,h,e),e(h,h,d,e)and h(e and e,e and d,e,t),d(e,e and e,h,t),t(t,t,t,d))end,function(d,e,h,t)if l>b.ZxWjtVLk then return e end l=l+b.XaaxyDei n=(n+b.BZnEgdlu)%b.OxrUxYFB if(n%b.LVxSWYCk)>b.LtrSyvJe then n=(n*b.kUqvQZfb)%b._gmwrxxO return e else return t(d(d,h,e,t)and h(t,t and h,e,d),t(d,e,h,h),e(h,h,e,d),h(e,h,h,d))end return h(t(h,d,d and h,h),e(e,e,e,h),h(e,e,e,e),t(h,d,e,d)and t(e,e,d and h,t))end)return n;end)())local te=(getfenv)or(function()return _ENV end);local o=b.MnDgKVtl or b.TbSWmzHd;local t=b.zBOEXjQK;local f=b.qVHlXjuF;local d=b.nUBayUfj;local m=b.XaaxyDei;local function he(c,...)local s=a(e,"Q0-NhT73
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-Gui-888/UI/main/inform/Module.Lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-Gui-888/UI/main/inform/Client.Lua"))()
+
+ Notification:Notify( 
+     {Title = "GHOST TEAM", Description = "欢迎使用霖磐脚本"}, 
+     {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"}, 
+     {Image = "http://www.roblox.com/asset/?id=", ImageColor = Color3.fromRGB(225, 225, 225)} 
+ ) 
+ wait(2) 
+
+local CoreGui = game:GetService("StarterGui")CoreGui:SetCore("SendNotification", {    Title = "👑老郭🇨🇳",    Text = "耐心等待（反挂机已开启）",    Duration = 5, })print("反挂机开启")		local vu = game:GetService("VirtualUser")		game:GetService("Players").LocalPlayer.Idled:connect(function()		   vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)		   wait(1)		   vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)		end)
+local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/FUEx0f3G')))()
+local Window = OrionLib:MakeWindow({Name = "霖磐脚本", HidePremium = false, SaveConfig = false, IntroText = "欢迎使用", ConfigFolder = "欢迎使用"})
+
+local Tab = Window:MakeTab({
+    Name = "脚本公告",
+    Icon = "rbxassetid://7734068321",
+    PremiumOnly = false
+})
+
+Tab:AddParagraph("作者","老郭")
+Tab:AddLabel("作者QQ：2306887018")
+Tab:AddLabel("QQ群：864060476")
+Tab:AddLabel("此脚本完全免费")
+
+local Tab = Window:MakeTab({
+	Name = "⭐通用功能⭐",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "HUA 光影",
+  Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/arzRCgwS"))()
+  end
+})
+
+Tab:AddButton({
+  Name = "光影_2",
+  Default = false,
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MZEEN2424/Graphics/main/Graphics.xml"))()
+  end
+})
+
+Tab:AddButton({
+	Name = "超高画质",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/jHBfJYmS"))()
+end
+})    
+
+Tab:AddButton({
+  Name = "旋转",
+  Callback = function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/r97d7dS0', true))()
+  end
+})
+
+Tab:AddToggle({
+	Name = "夜视",
+	Default = false,
+	Callback = function(Value)
+		if Value then
+		    game.Lighting.Ambient = Color3.new(1, 1, 1)
+		else
+		    game.Lighting.Ambient = Color3.new(0, 0, 0)
+		end
+	end
+})
+ 
+Tab:AddButton({
+	Name = "飞车",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/MHE1cbWF"))()
+	end
+})
+
+Tab:AddButton({
+	Name = "爬墙",
+	Callback = function()
+loadstring(game:HttpGet("https://pastebin.com/raw/zXk4Rq2r"))()
+end
+})
+
+Tab:AddButton({
+    Name = "动作",
+    Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Zj4NnKs6"))()
+    end
+})
+
+Tab:AddButton({
+	Name = "电脑键盘",
+	Callback = function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "踏空行走",
+	Callback = function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))()
+	end
+})
+
+local player = Window:MakeTab({
+	Name = "👁玩家👁",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "奖励自己",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/minecrafttotem/yzhs./main/Fe%20pp%20script%20very%20fun"))()
+  end
+})
+
+Tab:AddButton({
+	Name = "无限跳",
+    Default = false,
+	Callback = function(Value)
+loadstring(game:HttpGet("https://pastebin.com/raw/V5PQy3y0", true))()
+	end
+})
+
+player:AddTextbox({
+	Name = "移动速度",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = Value
+	end
+})
+
+player:AddTextbox({
+	Name = "跳跃高度",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Players.LocalPlayer.Character.Humanoid.JumpPower = Value
+	end
+})
+
+player:AddTextbox({
+	Name = "重力设置",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(Value)
+		game.Workspace.Gravity = Value
+	end
+})
+
+player:AddButton({
+	Name = "👻穿墙",
+	Callback = function()
+      	loadstring(game:HttpGet("https://pastebin.com/raw/jvyN5hT8"))()
+  	end
+})
+
+player:AddButton({
+	Name = "🚀飞行",
+	Callback = function()
+      	loadstring(game:HttpGet("https://pastebin.com/raw/U27yQRxS"))()
+  	end
+})
+
+player:AddButton({
+	Name = "透视",
+	Callback = function()
+      	local FillColor = Color3.fromRGB(175,25,255)
+local DepthMode = "AlwaysOnTop"
+local FillTransparency = 0.5
+local OutlineColor = Color3.fromRGB(255,255,255)
+local OutlineTransparency = 0
+
+local CoreGui = game:FindService("CoreGui")
+local Players = game:FindService("Players")
+local lp = Players.LocalPlayer
+local connections = {}
+
+local Storage = Instance.new("Folder")
+Storage.Parent = CoreGui
+Storage.Name = "Highlight_Storage"
+
+local function Highlight(plr)
+    local Highlight = Instance.new("Highlight")
+    Highlight.Name = plr.Name
+    Highlight.FillColor = FillColor
+    Highlight.DepthMode = DepthMode
+    Highlight.FillTransparency = FillTransparency
+    Highlight.OutlineColor = OutlineColor
+    Highlight.OutlineTransparency = 0
+    Highlight.Parent = Storage
+    
+    local plrchar = plr.Character
+    if plrchar then
+        Highlight.Adornee = plrchar
+    end
+
+    connections[plr] = plr.CharacterAdded:Connect(function(char)
+        Highlight.Adornee = char
+    end)
+end
+
+Players.PlayerAdded:Connect(Highlight)
+for i,v in next, Players:GetPlayers() do
+    Highlight(v)
+end
+
+Players.PlayerRemoving:Connect(function(plr)
+    local plrname = plr.Name
+    if Storage[plrname] then
+        Storage[plrname]:Destroy()
+    end
+    if connections[plr] then
+        connections[plr]:Disconnect()
+    end
+end)
+  	end
+})
+
+player:AddButton({
+	Name = "传送玩家",
+	Callback = function()
+      	loadstring(game:HttpGet(("https://pastebin.com/raw/YNVbeqPy")))()
+  	end
+})
+
+player:AddButton({
+	Name = "fps显示",
+	Callback = function()
+      	loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/FPS-Counter'))()
+  	end
+})
+
+player:AddButton({
+	Name = "玩家进入提示",
+	Callback = function()
+      	loadstring(game:HttpGet("https://raw.githubusercontent.com/boyscp/scriscriptsc/main/bbn.lua"))()
+  	end
+})
+
+local Tab = Window:MakeTab({
+	Name = "🌚小黑子",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "1",
+  Callback = function()
+    loadstring(game:HttpGet(('https://gist.githubusercontent.com/blox-hub-roblox/021bad62bbc6a0adc4ba4e625f9ad7df/raw/c89af6e1acf587d09e4ce4bc7510e7100e0c0065/swordWarrior.lua'),true))()
+  end
+})
+
+Tab:AddButton({
+  Name = "2",
+  Callback = function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SwordWarriors"))()
+  end
+})
+
+local Tab = Window:MakeTab({
+	Name = "🔥自然灾害🔥",
+	Icon = "rbxassetid://7734068321",
+	PremiumOnly = false
+})
+
+Tab:AddButton({
+  Name = "hua-自然灾害",
+  Callback = function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/5fKvum70"))()
+  end
+})
+
+local Tab = Window:MakeTab({
+	Name = "🌈doors🌈"
